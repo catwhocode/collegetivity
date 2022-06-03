@@ -1,5 +1,8 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
+*.pug linguist-detectable=false
+*.scss linguist-detectable=false
+*.blade linguist-detectable=false
 *.php linguist-detectable=true
 CHANGELOG.md export-ignore
