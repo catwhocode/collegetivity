@@ -3,6 +3,6 @@
 *.html linguist-detectable=false
 *.pug linguist-detectable=false
 *.scss linguist-detectable=false
-*.blade linguist-detectable=false
+*.blade.php linguist-detectable=false
 *.php linguist-detectable=true
 CHANGELOG.md export-ignore
